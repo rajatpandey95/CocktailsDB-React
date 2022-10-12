@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+React  is a rapidly growing native app development framework nowadays and everybody is contributing so many new things in React Native daily, that is why you can see many updates in the components and libraries but don’t worry, I will keep my posts updated. If you see below you will find the recently updated posts of this section.
